@@ -5,7 +5,7 @@ using UnityEngine;
 
 public class PikachuScript : MonoBehaviour
 {
-    public GameObject light;
+    public GameObject electricity;
     private float counter;
 
     // Update is called once per frame
@@ -14,7 +14,7 @@ public class PikachuScript : MonoBehaviour
         counter += Time.deltaTime;
         if (counter > 0.8)
         {
-            light.SetActive(!light.activeSelf);
+            electricity.SetActive(!electricity.activeSelf);
             counter = 0;
         }
     }
