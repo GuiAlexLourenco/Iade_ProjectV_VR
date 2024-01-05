@@ -8,7 +8,7 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Scenes/SampleScene.unity
     guid: 99c9720ab356a0642a771bea13969a05
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Environment.unity
     guid: 3ce6c006744a2b94f8a826447d3a456e
   - enabled: 1
@@ -17,6 +17,18 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/BlackAndWhite.unity
     guid: 07e967bdc0e7fa44d8091725675a3b59
+  - enabled: 1
+    path: Assets/Scenes/Palace 2.unity
+    guid: 9deb88f36fa826244af50d2a9da60dd7
+  - enabled: 1
+    path: Assets/Scenes/Palace 3.unity
+    guid: 4867fce3453781c4d8226acd3f64b13d
+  - enabled: 1
+    path: Assets/Scenes/Palace 4.unity
+    guid: 923cbf2784327bc408e59adf50954f4c
+  - enabled: 1
+    path: Assets/Scenes/Palace 5.unity
+    guid: 72ffd04125d25a9448d40473ef6d49b9
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 09373d83f728be54cb5ba8946802004b,
       type: 2}
