@@ -12376,6 +12376,27 @@ MonoBehaviour:
   m_Teleporting:
     m_PersistentCalls:
       m_Calls: []
+--- !u!65 &1433351564
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1433351559}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 0.060096674, y: 0.08017298, z: 0.007773131}
+  m_Center: {x: -0.004831396, y: 0.0000000018626451, z: 0}
 --- !u!1 &1448151366
 GameObject:
   m_ObjectHideFlags: 0
@@ -16823,6 +16844,10 @@ PrefabInstance:
         type: 3}
       insertIndex: -1
       addedObject: {fileID: 1433351560}
+    - targetCorrespondingSourceObject: {fileID: -516098083770646512, guid: df58959272a75ab4db8512da4b5076f2,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1433351564}
     - targetCorrespondingSourceObject: {fileID: -208595431880416365, guid: df58959272a75ab4db8512da4b5076f2,
         type: 3}
       insertIndex: -1
