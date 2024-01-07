@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 682555893198127616}
   - component: {fileID: 6085652664372488174}
   - component: {fileID: 2919934030464699157}
-  - component: {fileID: 5606640853044178918}
+  - component: {fileID: 8348458117258447623}
   m_Layer: 0
   m_Name: Fade Screen
   m_TagString: Untagged
@@ -107,7 +107,7 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: 10210, guid: 0000000000000000e000000000000000, type: 0}
---- !u!114 &5606640853044178918
+--- !u!114 &8348458117258447623
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -120,5 +120,5 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   fadeOnStart: 1
-  fadeDuration: 2
+  fadeDuration: 1
   fadeColor: {r: 1, g: 1, b: 1, a: 0}
