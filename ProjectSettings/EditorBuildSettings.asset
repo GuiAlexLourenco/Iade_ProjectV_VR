@@ -29,6 +29,15 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Palace 5.unity
     guid: 72ffd04125d25a9448d40473ef6d49b9
+  - enabled: 1
+    path: Assets/Scenes/Space.unity
+    guid: 3785b56ed9891a14d9bc9d02814fe826
+  - enabled: 1
+    path: Assets/Scenes/Western.unity
+    guid: fe89f76da785c4be08327c89f81c82c1
+  - enabled: 1
+    path: Assets/Scenes/Aztec.unity
+    guid: 081b30b1b48fe472aabf092db13c2337
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 09373d83f728be54cb5ba8946802004b,
       type: 2}
