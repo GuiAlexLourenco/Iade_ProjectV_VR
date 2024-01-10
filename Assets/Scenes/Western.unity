@@ -973,7 +973,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &155882028
 Transform:
@@ -1357,7 +1357,7 @@ GameObject:
   - component: {fileID: 193660258}
   - component: {fileID: 193660259}
   m_Layer: 0
-  m_Name: BreezeOutside
+  m_Name: DesertSound
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2694,6 +2694,16 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: bar top
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 69f7c2e0672c07146816034330d2262c,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 2040542448765327740, guid: 69f7c2e0672c07146816034330d2262c,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -8402,6 +8412,11 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7804150445334495824, guid: 86766096467d24d49b88104d037e2d99,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: -6818908074787945199, guid: 86766096467d24d49b88104d037e2d99,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -8517,10 +8532,35 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.y
       value: -23.42
       objectReference: {fileID: 0}
+    - target: {fileID: -2376058982073851477, guid: 86766096467d24d49b88104d037e2d99,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: -843846849083276959, guid: 86766096467d24d49b88104d037e2d99,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 86766096467d24d49b88104d037e2d99,
         type: 3}
       propertyPath: m_Name
       value: Wooden_Planks
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 86766096467d24d49b88104d037e2d99,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 3807031642571157522, guid: 86766096467d24d49b88104d037e2d99,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 5424796288920812866, guid: 86766096467d24d49b88104d037e2d99,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 8222929978276919099, guid: 86766096467d24d49b88104d037e2d99,
         type: 3}
@@ -9419,7 +9459,7 @@ GameObject:
   - component: {fileID: 807665167}
   - component: {fileID: 807665168}
   m_Layer: 0
-  m_Name: BreezeOutside (5)
+  m_Name: DesertSound (5)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -9688,6 +9728,16 @@ PrefabInstance:
       propertyPath: m_Name
       value: bar top (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 69f7c2e0672c07146816034330d2262c,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 2040542448765327740, guid: 69f7c2e0672c07146816034330d2262c,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -9735,7 +9785,7 @@ GameObject:
   - component: {fileID: 828272286}
   - component: {fileID: 828272287}
   m_Layer: 0
-  m_Name: BreezeOutside (4)
+  m_Name: DesertSound (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -10226,7 +10276,7 @@ GameObject:
   - component: {fileID: 886178501}
   - component: {fileID: 886178502}
   m_Layer: 0
-  m_Name: BreezeOutside (3)
+  m_Name: DesertSound (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -11800,6 +11850,11 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7804150445334495824, guid: 86766096467d24d49b88104d037e2d99,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: -6818908074787945199, guid: 86766096467d24d49b88104d037e2d99,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -11905,10 +11960,35 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.y
       value: -56.57
       objectReference: {fileID: 0}
+    - target: {fileID: -2376058982073851477, guid: 86766096467d24d49b88104d037e2d99,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: -843846849083276959, guid: 86766096467d24d49b88104d037e2d99,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 86766096467d24d49b88104d037e2d99,
         type: 3}
       propertyPath: m_Name
       value: Wooden_Planks (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 86766096467d24d49b88104d037e2d99,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 3807031642571157522, guid: 86766096467d24d49b88104d037e2d99,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 5424796288920812866, guid: 86766096467d24d49b88104d037e2d99,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 8222929978276919099, guid: 86766096467d24d49b88104d037e2d99,
         type: 3}
@@ -13799,7 +13879,7 @@ GameObject:
   - component: {fileID: 1272176135}
   - component: {fileID: 1272176136}
   m_Layer: 0
-  m_Name: BreezeOutside (1)
+  m_Name: DesertSound (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -19945,7 +20025,7 @@ GameObject:
   - component: {fileID: 1654049181}
   - component: {fileID: 1654049182}
   m_Layer: 0
-  m_Name: BreezeOutside (2)
+  m_Name: DesertSound (6)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -25622,7 +25702,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &1908361004
 Transform:
@@ -25937,7 +26017,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &1959905750
 Transform:
@@ -29486,7 +29566,7 @@ GameObject:
   - component: {fileID: 2128458584}
   - component: {fileID: 2128458585}
   m_Layer: 0
-  m_Name: BreezeOutside (6)
+  m_Name: DesertSound (4)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
