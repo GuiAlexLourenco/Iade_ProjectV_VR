@@ -348,7 +348,7 @@ HingeJoint:
   m_Anchor: {x: -0.008, y: 0, z: 0.0115}
   m_Axis: {x: 0, y: 0, z: 1}
   m_AutoConfigureConnectedAnchor: 1
-  m_ConnectedAnchor: {x: 5.482314, y: 2.4258614, z: -2.1254268}
+  m_ConnectedAnchor: {x: 5.3650484, y: -43.26314, z: -2.8267045}
   serializedVersion: 2
   m_UseSpring: 0
   m_Spring:
@@ -3080,7 +3080,7 @@ HingeJoint:
   m_Anchor: {x: 0.0085, y: 0, z: 0.0115}
   m_Axis: {x: 0, y: 0, z: 1}
   m_AutoConfigureConnectedAnchor: 1
-  m_ConnectedAnchor: {x: 5.0634265, y: 2.4258614, z: -1.736686}
+  m_ConnectedAnchor: {x: 5.3404264, y: -43.26314, z: -1.398686}
   serializedVersion: 2
   m_UseSpring: 0
   m_Spring:
@@ -3998,7 +3998,7 @@ Transform:
   m_GameObject: {fileID: 189221970}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -80.4, y: -9.61, z: -9.6}
+  m_LocalPosition: {x: -79.38, y: -10.29, z: -9.6}
   m_LocalScale: {x: 5.559865, y: 1, z: 10.834006}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -18990,7 +18990,7 @@ PrefabInstance:
     - target: {fileID: 2056024375973073051, guid: ba89c975d23c72243bdaa7247b9be018,
         type: 3}
       propertyPath: ColorModule.gradient.maxGradient.key0.a
-      value: 0.13725491
+      value: 0.19607843
       objectReference: {fileID: 0}
     - target: {fileID: 2056024375973073051, guid: ba89c975d23c72243bdaa7247b9be018,
         type: 3}
@@ -19000,7 +19000,7 @@ PrefabInstance:
     - target: {fileID: 2056024375973073051, guid: ba89c975d23c72243bdaa7247b9be018,
         type: 3}
       propertyPath: ColorModule.gradient.maxGradient.key2.a
-      value: 0.13725491
+      value: 0.19607843
       objectReference: {fileID: 0}
     - target: {fileID: 2056024375973073051, guid: ba89c975d23c72243bdaa7247b9be018,
         type: 3}
