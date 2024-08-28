@@ -8,6 +8,10 @@ public class FloatingObject : MonoBehaviour
     public float activationRange = 5f; // Range within which the object starts floating
     public float floatSpeed = 2f; // Speed of floating
     public float floatHeight = 1f; // Height to which the object floats
+    public float rotationSpeed = 50f; // Speed of rotation (degrees per second)
+    public float bobbingAmplitude = 0.5f; // Amplitude of the bobbing effect (how high and low it moves)
+    public float bobbingFrequency = 2f; // Frequency of the bobbing effect (how fast it moves up and down)
+
     private bool isFloating = false; // Check if the object is already floating
     private Vector3 initialPosition; // To store the initial position of the object
 
@@ -28,11 +32,18 @@ public class FloatingObject : MonoBehaviour
             isFloating = true; // Start floating
         }
 
-        // If the object is floating, move it upwards
+        // If the object is floating, move it upwards and apply bobbing effect
         if (isFloating)
         {
-            // Smoothly move the object to the target height
-            transform.position = Vector3.Lerp(transform.position, new Vector3(transform.position.x, initialPosition.y + floatHeight, transform.position.z), floatSpeed * Time.deltaTime);
+            // Apply bobbing effect using a sine wave
+            float bobbingOffset = Mathf.Sin(Time.time * bobbingFrequency) * bobbingAmplitude;
+
+            // Set the new position with bobbing and floating
+            Vector3 newPosition = new Vector3(transform.position.x, initialPosition.y + floatHeight + bobbingOffset, transform.position.z);
+            transform.position = Vector3.Lerp(transform.position, newPosition, floatSpeed * Time.deltaTime);
+
+            // Rotate the object around the Y-axis
+            transform.Rotate(Vector3.up, rotationSpeed * Time.deltaTime);
         }
     }
 }
