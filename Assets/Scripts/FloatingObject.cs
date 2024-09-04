@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.Events;
 
 public class FloatingObject : MonoBehaviour
 {
@@ -14,6 +15,8 @@ public class FloatingObject : MonoBehaviour
 
     private bool isFloating = false; // Check if the object is already floating
     private Vector3 initialPosition; // To store the initial position of the object
+
+    public UnityEvent OnPlayerInRange; // UnityEvent that can be set up in the inspector
 
     void Start()
     {
@@ -30,6 +33,7 @@ public class FloatingObject : MonoBehaviour
         if (distanceToPlayer <= activationRange && !isFloating)
         {
             isFloating = true; // Start floating
+            OnPlayerInRange.Invoke(); // Trigger the UnityEvent when the player enters the range
         }
 
         // If the object is floating, move it upwards and apply bobbing effect
