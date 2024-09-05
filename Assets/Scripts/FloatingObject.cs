@@ -12,8 +12,10 @@ public class FloatingObject : MonoBehaviour
     public float rotationSpeed = 50f; // Speed of rotation (degrees per second)
     public float bobbingAmplitude = 0.5f; // Amplitude of the bobbing effect (how high and low it moves)
     public float bobbingFrequency = 2f; // Frequency of the bobbing effect (how fast it moves up and down)
+    public float eventDelay = 2f; // Time in seconds to wait before triggering the event
 
     private bool isFloating = false; // Check if the object is already floating
+    private bool eventTriggered = false; //Check if the event was triggered
     private Vector3 initialPosition; // To store the initial position of the object
 
     public UnityEvent OnPlayerInRange; // UnityEvent that can be set up in the inspector
@@ -30,10 +32,10 @@ public class FloatingObject : MonoBehaviour
         float distanceToPlayer = Vector3.Distance(player.position, transform.position);
 
         // If the player is within the activation range and the object is not floating yet
-        if (distanceToPlayer <= activationRange && !isFloating)
+        if (distanceToPlayer <= activationRange && !isFloating && !eventTriggered)
         {
             isFloating = true; // Start floating
-            OnPlayerInRange.Invoke(); // Trigger the UnityEvent when the player enters the range
+            StartCoroutine(TriggerEventWithDelay()); // Start the coroutine to trigger the event with delay
         }
 
         // If the object is floating, move it upwards and apply bobbing effect
@@ -49,5 +51,12 @@ public class FloatingObject : MonoBehaviour
             // Rotate the object around the Y-axis
             transform.Rotate(Vector3.up, rotationSpeed * Time.deltaTime);
         }
+    }
+
+    private IEnumerator TriggerEventWithDelay()
+    {
+        eventTriggered = true; // Mark event as triggered to prevent re-triggering
+        yield return new WaitForSeconds(eventDelay); // Wait for the specified delay
+        OnPlayerInRange.Invoke(); // Trigger the UnityEvent after the delay
     }
 }
