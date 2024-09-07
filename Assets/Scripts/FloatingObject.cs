@@ -6,13 +6,14 @@ using UnityEngine.Events;
 public class FloatingObject : MonoBehaviour
 {
     public Transform player; // Reference to the player object
-    public float activationRange = 5f; // Range within which the object starts floating
-    public float floatSpeed = 2f; // Speed of floating
+    public float activationRange = 2f; // Range within which the object starts floating
+    public float floatSpeed = 1f; // Speed of floating
     public float floatHeight = 1f; // Height to which the object floats
-    public float rotationSpeed = 50f; // Speed of rotation (degrees per second)
+    public Vector3 rotationAxis = Vector3.up; // Axis of rotation (modifiable in the Inspector)
+    public float rotationSpeed = 25f; // Speed of rotation (degrees per second)
     public float bobbingAmplitude = 0.5f; // Amplitude of the bobbing effect (how high and low it moves)
     public float bobbingFrequency = 2f; // Frequency of the bobbing effect (how fast it moves up and down)
-    public float eventDelay = 2f; // Time in seconds to wait before triggering the event
+    public float eventDelay = 3f; // Time in seconds to wait before triggering the event
 
     private bool isFloating = false; // Check if the object is already floating
     private bool eventTriggered = false; //Check if the event was triggered
@@ -49,7 +50,7 @@ public class FloatingObject : MonoBehaviour
             transform.position = Vector3.Lerp(transform.position, newPosition, floatSpeed * Time.deltaTime);
 
             // Rotate the object around the Y-axis
-            transform.Rotate(Vector3.up, rotationSpeed * Time.deltaTime);
+            transform.Rotate(rotationAxis, rotationSpeed * Time.deltaTime);
         }
     }
 

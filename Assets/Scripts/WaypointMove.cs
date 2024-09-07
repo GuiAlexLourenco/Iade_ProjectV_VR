@@ -5,7 +5,7 @@ using UnityEngine;
 public class WaypointMove : MonoBehaviour
 {
     public List<GameObject> waypoints;  // List of waypoints
-    public float speed = 2f;            // Movement speed
+    public float speed = 1f;            // Movement speed
     public float delay = 3f;            // Delay before starting the movement
     public float pauseDuration = 2f;    // Duration to pause at each pause point
     public List<int> pauseIndices;      // List of waypoint indices where the player should pause

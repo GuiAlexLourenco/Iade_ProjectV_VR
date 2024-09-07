@@ -29706,11 +29706,12 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   player: {fileID: 2110702875}
   activationRange: 2
-  floatSpeed: 1.5
+  floatSpeed: 1
   floatHeight: 1
+  rotationAxis: {x: 0, y: 0, z: 1}
   rotationSpeed: 50
-  bobbingAmplitude: 0.3
-  bobbingFrequency: 1
+  bobbingAmplitude: 0
+  bobbingFrequency: 2
   eventDelay: 3
   OnPlayerInRange:
     m_PersistentCalls:
@@ -50839,7 +50840,7 @@ MonoBehaviour:
   - {fileID: 1120914182}
   - {fileID: 556658192}
   speed: 1
-  delay: 6
+  delay: 8
   pauseDuration: 4
   pauseIndices: 04000000
 --- !u!1 &2113022384

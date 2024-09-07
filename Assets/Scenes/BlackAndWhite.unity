@@ -507,7 +507,7 @@ Transform:
   m_GameObject: {fileID: 64922989}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -0.249, y: 0.45400006, z: -0.9000001}
+  m_LocalPosition: {x: -0.343, y: 0.45400006, z: -0.9000001}
   m_LocalScale: {x: 0.2487, y: 0.2487, z: 0.2487}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -4931,7 +4931,7 @@ Transform:
   m_GameObject: {fileID: 446870236}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -0.12, y: 0, z: 0}
+  m_LocalPosition: {x: -0.317, y: 0, z: 0}
   m_LocalScale: {x: 0.2487, y: 0.2487, z: 0.2487}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -32869,12 +32869,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   player: {fileID: 2110702875}
   activationRange: 1
-  floatSpeed: 1.5
+  floatSpeed: 1
   floatHeight: 1
-  rotationSpeed: 50
-  bobbingAmplitude: 0.5
+  rotationAxis: {x: 1, y: 0, z: 0}
+  rotationSpeed: 25
+  bobbingAmplitude: 0
   bobbingFrequency: 2
-  eventDelay: 2
+  eventDelay: 3
   OnPlayerInRange:
     m_PersistentCalls:
       m_Calls:
@@ -33262,7 +33263,7 @@ MonoBehaviour:
   - {fileID: 64922989}
   - {fileID: 446870236}
   speed: 1
-  delay: 6
+  delay: 8
   pauseDuration: 2
   pauseIndices: 06000000
 --- !u!1 &2113022384
