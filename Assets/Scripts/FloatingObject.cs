@@ -8,6 +8,7 @@ public class FloatingObject : MonoBehaviour
     public Transform player; // Reference to the player object
     public float activationRange = 2f; // Range within which the object starts floating
     public float floatSpeed = 1f; // Speed of floating
+    public Vector3 floatDirection = Vector3.up; // Direction the object will float (modifiable in the Inspector)
     public float floatHeight = 1f; // Height to which the object floats
     public Vector3 rotationAxis = Vector3.up; // Axis of rotation (modifiable in the Inspector)
     public float rotationSpeed = 25f; // Speed of rotation (degrees per second)
@@ -46,8 +47,8 @@ public class FloatingObject : MonoBehaviour
             float bobbingOffset = Mathf.Sin(Time.time * bobbingFrequency) * bobbingAmplitude;
 
             // Set the new position with bobbing and floating
-            Vector3 newPosition = new Vector3(transform.position.x, initialPosition.y + floatHeight + bobbingOffset, transform.position.z);
-            transform.position = Vector3.Lerp(transform.position, newPosition, floatSpeed * Time.deltaTime);
+            Vector3 targetPosition = initialPosition + floatDirection.normalized * floatHeight + new Vector3(0, bobbingOffset, 0);
+            transform.position = Vector3.Lerp(transform.position, targetPosition, floatSpeed * Time.deltaTime);
 
             // Rotate the object around the Y-axis
             transform.Rotate(rotationAxis, rotationSpeed * Time.deltaTime);
