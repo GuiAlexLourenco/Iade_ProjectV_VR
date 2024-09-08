@@ -526,7 +526,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!135 &22902271
 SphereCollider:
@@ -801,6 +801,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: NewspaperSmall (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: d227e72e00dfe4543aae1741b03ed431,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -1218,6 +1223,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bottle (13)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 03a28518424472544a0036f05e145399,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -1630,7 +1640,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!65 &47967923
 BoxCollider:
@@ -2438,6 +2448,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: NewspaperSmall (23)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: d227e72e00dfe4543aae1741b03ed431,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -3154,6 +3169,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: NewspaperSmall (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: d227e72e00dfe4543aae1741b03ed431,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -4520,7 +4540,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &161651171
 Transform:
@@ -4735,7 +4755,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &171484378
 Transform:
@@ -5254,6 +5274,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bottle (32)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 03a28518424472544a0036f05e145399,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -5565,6 +5590,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Bottle (16)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 03a28518424472544a0036f05e145399,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -5896,7 +5926,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &190313185
 Transform:
@@ -7383,6 +7413,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Bottle (28)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 03a28518424472544a0036f05e145399,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -9770,6 +9805,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bottle (9)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 03a28518424472544a0036f05e145399,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -10129,6 +10169,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: NewspaperSmall (22)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: d227e72e00dfe4543aae1741b03ed431,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -10561,6 +10606,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Seperate-Trash (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 4b3778e10d2bfb14bb17d98e47f80607,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 2496465067785023256, guid: 4b3778e10d2bfb14bb17d98e47f80607,
         type: 3}
@@ -11149,6 +11199,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Bottle (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 03a28518424472544a0036f05e145399,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -11855,6 +11910,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bottle (12)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 03a28518424472544a0036f05e145399,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -12250,6 +12310,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: NewspaperBig (10)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: fafc3a0f8a188cc42b8326d569811ae4,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -12561,6 +12626,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: NewspaperSmall (26)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: d227e72e00dfe4543aae1741b03ed431,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -13061,6 +13131,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: NewspaperBig (11)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: fafc3a0f8a188cc42b8326d569811ae4,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -13455,6 +13530,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: NewspaperBig (24)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: fafc3a0f8a188cc42b8326d569811ae4,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -14484,6 +14564,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bottle (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 03a28518424472544a0036f05e145399,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -15006,6 +15091,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: NewspaperBig (4)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: fafc3a0f8a188cc42b8326d569811ae4,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -15317,6 +15407,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: NewspaperBig (30)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: fafc3a0f8a188cc42b8326d569811ae4,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -15756,6 +15851,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bottle (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 03a28518424472544a0036f05e145399,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -16002,7 +16102,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!135 &441380987
 SphereCollider:
@@ -16691,6 +16791,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: NewspaperSmall (11)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: d227e72e00dfe4543aae1741b03ed431,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -17151,7 +17256,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &452869873
 Transform:
@@ -17940,7 +18045,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!135 &479381343
 SphereCollider:
@@ -18110,6 +18215,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: NewspaperBig (12)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: fafc3a0f8a188cc42b8326d569811ae4,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -19189,6 +19299,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bottle (34)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 03a28518424472544a0036f05e145399,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -19500,6 +19615,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: NewspaperSmall (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: d227e72e00dfe4543aae1741b03ed431,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -20029,6 +20149,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: NewspaperSmall (10)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: d227e72e00dfe4543aae1741b03ed431,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -20646,6 +20771,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: NewspaperBig (6)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: fafc3a0f8a188cc42b8326d569811ae4,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -21062,6 +21192,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bottle (6)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 03a28518424472544a0036f05e145399,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -21373,6 +21508,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Bottle (40)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 03a28518424472544a0036f05e145399,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -22530,6 +22670,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Bottle (36)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 03a28518424472544a0036f05e145399,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -24353,7 +24498,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!135 &615159482
 SphereCollider:
@@ -24606,6 +24751,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Bottle (19)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 03a28518424472544a0036f05e145399,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -25001,6 +25151,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Bottle
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 03a28518424472544a0036f05e145399,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -25398,6 +25553,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bottle (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 03a28518424472544a0036f05e145399,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -25793,6 +25953,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bottle (8)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 03a28518424472544a0036f05e145399,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -26104,6 +26269,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Bottle (42)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 03a28518424472544a0036f05e145399,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -27018,6 +27188,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: NewspaperSmall (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: d227e72e00dfe4543aae1741b03ed431,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -28265,6 +28440,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bottle (35)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 03a28518424472544a0036f05e145399,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -28681,6 +28861,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Bag
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: db39995fddb2ab1488536b2f16fc3cc9,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -29099,6 +29284,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: NewspaperBig
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: fafc3a0f8a188cc42b8326d569811ae4,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -29410,6 +29600,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Bottle (31)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 03a28518424472544a0036f05e145399,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -30098,6 +30293,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: NewspaperBig (20)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: fafc3a0f8a188cc42b8326d569811ae4,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -30703,6 +30903,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: NewspaperSmall (27)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: d227e72e00dfe4543aae1741b03ed431,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -31014,6 +31219,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: NewspaperBig (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: fafc3a0f8a188cc42b8326d569811ae4,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -31516,6 +31726,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bottle (33)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 03a28518424472544a0036f05e145399,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -31933,6 +32148,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bottle (41)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 03a28518424472544a0036f05e145399,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -32244,6 +32464,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: NewspaperBig (13)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: fafc3a0f8a188cc42b8326d569811ae4,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -32596,7 +32821,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!135 &787408465
 SphereCollider:
@@ -32871,6 +33096,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Bag (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: db39995fddb2ab1488536b2f16fc3cc9,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -33562,7 +33792,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &843743394
 Transform:
@@ -33758,6 +33988,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: NewspaperSmall (28)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: d227e72e00dfe4543aae1741b03ed431,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -34155,6 +34390,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: NewspaperSmall (14)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: d227e72e00dfe4543aae1741b03ed431,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -34466,6 +34706,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: NewspaperBig (25)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: fafc3a0f8a188cc42b8326d569811ae4,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -35079,6 +35324,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: NewspaperBig (15)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: fafc3a0f8a188cc42b8326d569811ae4,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -35538,6 +35788,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bottle (11)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 03a28518424472544a0036f05e145399,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -35849,6 +36104,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: NewspaperBig (21)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: fafc3a0f8a188cc42b8326d569811ae4,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -36266,6 +36526,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Bottle (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 03a28518424472544a0036f05e145399,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -36701,7 +36966,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!65 &906070798
 BoxCollider:
@@ -37164,6 +37429,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: NewspaperSmall (25)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: d227e72e00dfe4543aae1741b03ed431,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -37749,6 +38019,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bottle (27)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 03a28518424472544a0036f05e145399,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -38208,6 +38483,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bottle (18)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 03a28518424472544a0036f05e145399,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -38520,6 +38800,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: NewspaperSmall (16)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: d227e72e00dfe4543aae1741b03ed431,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -38820,7 +39105,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!65 &951599948
 BoxCollider:
@@ -38990,6 +39275,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Bottle (21)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 03a28518424472544a0036f05e145399,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -39302,6 +39592,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: NewspaperSmall (17)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: d227e72e00dfe4543aae1741b03ed431,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -40066,7 +40361,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!135 &978835628
 SphereCollider:
@@ -40479,6 +40774,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: NewspaperBig (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: fafc3a0f8a188cc42b8326d569811ae4,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -41883,7 +42183,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!135 &1035711575
 SphereCollider:
@@ -41986,7 +42286,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &1036410582
 Transform:
@@ -42182,6 +42482,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: NewspaperBig (17)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: fafc3a0f8a188cc42b8326d569811ae4,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -44972,7 +45277,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &1120808290
 Transform:
@@ -45124,7 +45429,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!65 &1121216256
 BoxCollider:
@@ -45294,6 +45599,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: NewspaperSmall (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: d227e72e00dfe4543aae1741b03ed431,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -45850,7 +46160,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &1146659437
 Transform:
@@ -47400,6 +47710,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: NewspaperBig (9)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: fafc3a0f8a188cc42b8326d569811ae4,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -47711,6 +48026,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Bottle (30)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 03a28518424472544a0036f05e145399,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -48615,6 +48935,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bag (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: db39995fddb2ab1488536b2f16fc3cc9,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -49010,6 +49335,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: NewspaperSmall (7)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: d227e72e00dfe4543aae1741b03ed431,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -49455,6 +49785,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bottle (43)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 03a28518424472544a0036f05e145399,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -49766,6 +50101,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: NewspaperSmall (30)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: d227e72e00dfe4543aae1741b03ed431,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -51389,6 +51729,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: NewspaperSmall (18)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: d227e72e00dfe4543aae1741b03ed431,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -52414,6 +52759,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bottle (15)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 03a28518424472544a0036f05e145399,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -52831,6 +53181,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bottle (20)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 03a28518424472544a0036f05e145399,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -53142,6 +53497,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: NewspaperSmall (19)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: d227e72e00dfe4543aae1741b03ed431,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -53599,7 +53959,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!135 &1353248032
 SphereCollider:
@@ -53870,7 +54230,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!135 &1362089529
 SphereCollider:
@@ -55007,7 +55367,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &1390912993
 Transform:
@@ -55392,6 +55752,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bag (8)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: db39995fddb2ab1488536b2f16fc3cc9,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -55659,7 +56024,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!135 &1411209471
 SphereCollider:
@@ -55829,6 +56194,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Bottle (7)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 03a28518424472544a0036f05e145399,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -56363,6 +56733,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Bag (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: db39995fddb2ab1488536b2f16fc3cc9,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -56919,6 +57294,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bottle (39)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 03a28518424472544a0036f05e145399,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -57401,6 +57781,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: NewspaperSmall (29)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: d227e72e00dfe4543aae1741b03ed431,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -58138,6 +58523,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: NewspaperBig (22)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: fafc3a0f8a188cc42b8326d569811ae4,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -58384,7 +58774,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!135 &1510635620
 SphereCollider:
@@ -58627,7 +59017,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!135 &1516137157
 SphereCollider:
@@ -58902,6 +59292,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: NewspaperSmall (12)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: d227e72e00dfe4543aae1741b03ed431,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -59320,6 +59715,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bottle (24)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 03a28518424472544a0036f05e145399,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -59631,6 +60031,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: NewspaperBig (26)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: fafc3a0f8a188cc42b8326d569811ae4,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -59944,6 +60349,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: NewspaperBig (16)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: fafc3a0f8a188cc42b8326d569811ae4,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -60255,6 +60665,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: NewspaperBig (29)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: fafc3a0f8a188cc42b8326d569811ae4,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -60672,6 +61087,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: NewspaperBig (23)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: fafc3a0f8a188cc42b8326d569811ae4,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -61419,6 +61839,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bag (4)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: db39995fddb2ab1488536b2f16fc3cc9,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -61836,6 +62261,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bag (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: db39995fddb2ab1488536b2f16fc3cc9,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -62163,7 +62593,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &1574467705
 Transform:
@@ -66539,6 +66969,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: NewspaperBig (7)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: fafc3a0f8a188cc42b8326d569811ae4,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -67153,6 +67588,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bag (5)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: db39995fddb2ab1488536b2f16fc3cc9,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -67616,7 +68056,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!135 &1641201969
 SphereCollider:
@@ -67890,6 +68330,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: NewspaperBig (8)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: fafc3a0f8a188cc42b8326d569811ae4,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -68583,6 +69028,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bottle (17)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 03a28518424472544a0036f05e145399,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -69168,6 +69618,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: NewspaperSmall
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: d227e72e00dfe4543aae1741b03ed431,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -69479,6 +69934,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Bottle (22)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 03a28518424472544a0036f05e145399,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -70238,6 +70698,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: NewspaperBig (14)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: fafc3a0f8a188cc42b8326d569811ae4,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -70738,6 +71203,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bottle (38)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 03a28518424472544a0036f05e145399,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -71050,6 +71520,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: NewspaperSmall (31)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: d227e72e00dfe4543aae1741b03ed431,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -71361,6 +71836,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: NewspaperBig (19)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: fafc3a0f8a188cc42b8326d569811ae4,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -71757,6 +72237,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bottle (23)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 03a28518424472544a0036f05e145399,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -72068,6 +72553,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Bottle (29)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 03a28518424472544a0036f05e145399,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -72417,7 +72907,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &1738607492
 Transform:
@@ -73448,6 +73938,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Seperate-Trash
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 4b3778e10d2bfb14bb17d98e47f80607,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 1324983640598899735, guid: 4b3778e10d2bfb14bb17d98e47f80607,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -73991,7 +74486,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!65 &1774235543
 BoxCollider:
@@ -74356,6 +74851,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: NewspaperSmall (8)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: d227e72e00dfe4543aae1741b03ed431,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -75091,7 +75591,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!135 &1790145251
 SphereCollider:
@@ -75261,6 +75761,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: NewspaperSmall (9)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: d227e72e00dfe4543aae1741b03ed431,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -75639,10 +76144,30 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -8391222552659086748, guid: 393bf64c45b36534f891c3a28af70f65,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: -516098083770646512, guid: 393bf64c45b36534f891c3a28af70f65,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 393bf64c45b36534f891c3a28af70f65,
         type: 3}
       propertyPath: m_Name
       value: Boxes (17)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 393bf64c45b36534f891c3a28af70f65,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
+    - target: {fileID: 8416272007918961125, guid: 393bf64c45b36534f891c3a28af70f65,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -75824,6 +76349,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: NewspaperSmall (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: d227e72e00dfe4543aae1741b03ed431,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -76137,6 +76667,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bag (9)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: db39995fddb2ab1488536b2f16fc3cc9,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -76448,6 +76983,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: NewspaperSmall (20)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: d227e72e00dfe4543aae1741b03ed431,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -76800,7 +77340,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!135 &1820169516
 SphereCollider:
@@ -77222,7 +77762,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!135 &1841798247
 SphereCollider:
@@ -77392,6 +77932,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Bottle (25)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 03a28518424472544a0036f05e145399,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -77932,7 +78477,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &1879198631
 Transform:
@@ -78837,6 +79382,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: NewspaperSmall (24)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: d227e72e00dfe4543aae1741b03ed431,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -79254,6 +79804,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: NewspaperSmall (13)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: d227e72e00dfe4543aae1741b03ed431,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -79670,6 +80225,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: NewspaperBig (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: fafc3a0f8a188cc42b8326d569811ae4,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -80304,6 +80864,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: NewspaperSmall (21)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: d227e72e00dfe4543aae1741b03ed431,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -81179,6 +81744,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bottle (26)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 03a28518424472544a0036f05e145399,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -81425,7 +81995,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!135 &1995448789
 SphereCollider:
@@ -81743,6 +82313,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: NewspaperSmall (15)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: d227e72e00dfe4543aae1741b03ed431,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -82054,6 +82629,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Bottle (14)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 03a28518424472544a0036f05e145399,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -82577,6 +83157,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bottle (37)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 03a28518424472544a0036f05e145399,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -82889,6 +83474,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: NewspaperBig (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: fafc3a0f8a188cc42b8326d569811ae4,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -83200,6 +83790,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Bottle (44)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 03a28518424472544a0036f05e145399,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -84127,6 +84722,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: NewspaperBig (18)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: fafc3a0f8a188cc42b8326d569811ae4,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -84439,6 +85039,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: NewspaperBig (27)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: fafc3a0f8a188cc42b8326d569811ae4,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -84750,6 +85355,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: NewspaperBig (28)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: fafc3a0f8a188cc42b8326d569811ae4,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -85279,6 +85889,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Bottle (10)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 03a28518424472544a0036f05e145399,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -86355,6 +86970,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bag (7)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: db39995fddb2ab1488536b2f16fc3cc9,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -86725,6 +87345,11 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -8391222552659086748, guid: 393bf64c45b36534f891c3a28af70f65,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: -5477749408508380018, guid: 393bf64c45b36534f891c3a28af70f65,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -86755,10 +87380,20 @@ PrefabInstance:
       propertyPath: m_LocalPosition.z
       value: 0.815
       objectReference: {fileID: 0}
+    - target: {fileID: -516098083770646512, guid: 393bf64c45b36534f891c3a28af70f65,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 393bf64c45b36534f891c3a28af70f65,
         type: 3}
       propertyPath: m_Name
       value: Boxes (16)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 393bf64c45b36534f891c3a28af70f65,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     - target: {fileID: 4083501151425157549, guid: 393bf64c45b36534f891c3a28af70f65,
         type: 3}
@@ -86769,6 +87404,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalPosition.z
       value: 1.03
+      objectReference: {fileID: 0}
+    - target: {fileID: 8416272007918961125, guid: 393bf64c45b36534f891c3a28af70f65,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
