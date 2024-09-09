@@ -71488,8 +71488,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   fadeDuration: 3
-  imageDelay: 2
-  imageFadeDuration: 2
+  imageDelay: 1.5
+  imageFadeDuration: 1
   imageCanvasGroup: {fileID: 2139167056}
 --- !u!1 &1708350718
 GameObject:
@@ -87482,8 +87482,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 100, y: 100}
+  m_AnchoredPosition: {x: -14.533901, y: 17.709412}
+  m_SizeDelta: {x: 887.6027, y: 570.7223}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!225 &2139167056
 CanvasGroup:
@@ -87517,7 +87517,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 0}
+  m_Sprite: {fileID: 21300000, guid: beae92dd7c6305c438f04be7f99da292, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
