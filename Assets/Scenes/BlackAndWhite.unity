@@ -32871,7 +32871,7 @@ MonoBehaviour:
   activationRange: 1
   floatSpeed: 1
   floatDirection: {x: 0, y: 1, z: 0}
-  floatHeight: 1
+  floatHeight: 0.8
   rotationAxis: {x: 1, y: 0, z: 0}
   rotationSpeed: 25
   bobbingAmplitude: 0

@@ -19512,6 +19512,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Fog
       objectReference: {fileID: 0}
+    - target: {fileID: 2056024375973073053, guid: ba89c975d23c72243bdaa7247b9be018,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -29828,9 +29833,9 @@ MonoBehaviour:
   activationRange: 2
   floatSpeed: 1
   floatDirection: {x: 0, y: 1, z: 0}
-  floatHeight: 1
+  floatHeight: 0.7
   rotationAxis: {x: 0, y: 0, z: 1}
-  rotationSpeed: 50
+  rotationSpeed: 25
   bobbingAmplitude: 0
   bobbingFrequency: 2
   eventDelay: 3
