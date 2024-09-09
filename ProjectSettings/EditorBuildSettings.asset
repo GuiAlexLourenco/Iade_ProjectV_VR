@@ -39,7 +39,7 @@ EditorBuildSettings:
     path: Assets/Scenes/Aztec.unity
     guid: 081b30b1b48fe472aabf092db13c2337
   m_configObjects:
-    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 09373d83f728be54cb5ba8946802004b,
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: f938364cb2820f549ab8864fb89a0064,
       type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 1814840dbac86584ab72f72eafef7af4,
       type: 2}
