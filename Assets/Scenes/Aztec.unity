@@ -6146,7 +6146,7 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: 13e157eb9ca87ed49b1df5d9600195be,
         type: 3}
       insertIndex: -1
-      addedObject: {fileID: 869958892}
+      addedObject: {fileID: 869958895}
   m_SourcePrefab: {fileID: 100100000, guid: 13e157eb9ca87ed49b1df5d9600195be, type: 3}
 --- !u!1 &869958890 stripped
 GameObject:
@@ -6181,7 +6181,28 @@ Rigidbody:
   m_Interpolate: 0
   m_Constraints: 0
   m_CollisionDetection: 0
---- !u!114 &869958892
+--- !u!65 &869958894
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 869958890}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 0
+  serializedVersion: 3
+  m_Size: {x: 1, y: 1, z: 1}
+  m_Center: {x: 0, y: 0, z: 0}
+--- !u!114 &869958895
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -6195,7 +6216,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   player: {fileID: 25966219}
   activationRange: 2
-  floatSpeed: 0.7
+  floatSpeed: 1
   floatDirection: {x: 0, y: 1, z: 0}
   floatHeight: 0.5
   rotationAxis: {x: 0, y: 1, z: 0}
@@ -6218,27 +6239,6 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
---- !u!65 &869958894
-BoxCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 869958890}
-  m_Material: {fileID: 0}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_LayerOverridePriority: 0
-  m_IsTrigger: 0
-  m_ProvidesContacts: 0
-  m_Enabled: 0
-  serializedVersion: 3
-  m_Size: {x: 1, y: 1, z: 1}
-  m_Center: {x: 0, y: 0, z: 0}
 --- !u!1001 &879352933
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -10209,6 +10209,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: SceneChanger
+      objectReference: {fileID: 0}
+    - target: {fileID: 7867540756248496126, guid: ce54cee6beb0d5e40a61f690c425f1bd,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
